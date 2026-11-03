@@ -11,9 +11,8 @@ winget install MojoUp.MojoFlow                      # Windows
 ```
 
 ```bash
-curl -fsSL https://api.mojoup.com.au/api/releases/mojoflow/install.sh | bash   # Linux, for your user
-sudo apt install ./mojoflow_<version>_amd64.deb     # Debian and Ubuntu, from the latest release
-yay -S mojoflow-bin                                 # Arch Linux (AUR)
+curl -fsSL https://mojo-up.github.io/mojoflow-releases/apt/install.sh | sudo bash   # Debian and Ubuntu (apt repository)
+curl -fsSL https://api.mojoup.com.au/api/releases/mojoflow/install.sh | bash        # any Linux, for your user
 ```
 
 Or download from the [latest release](https://github.com/Mojo-Up/mojoflow-releases/releases/latest)
