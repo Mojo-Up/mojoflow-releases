@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 05 Nov 2026 12:16:09 +0000
+Description: MojoFlow, push-to-talk dictation by Mojo Up
+Label: MojoFlow
+Origin: Mojo Up
+Suite: stable
+MD5Sum:
+ caaa9910d164f8eaea67c564c1485716              196 Release
+ 392633eaa4f35adca9e0183deb419be1             2592 main/binary-amd64/Packages
+ 1a037d9d07de614ab3be214b1defee29              831 main/binary-amd64/Packages.gz
+SHA1:
+ 6766aae8d309fbba6dc09b1ba1d83bada8f50d0d              196 Release
+ aa6248f069d827e901221c7a7d9afc2d8010645b             2592 main/binary-amd64/Packages
+ a1fdd1d83df2ef51606f4db69a71aea65a5929b3              831 main/binary-amd64/Packages.gz
+SHA256:
+ e6596d84a5a0f92f5da2ef70de5b35574b8802644b81f4b794bd01d583a1fd02              196 Release
+ 5e40a4c81979f4bc1b2d1c674c0f58899c681cde61876f26afa7a48ed293ed1c             2592 main/binary-amd64/Packages
+ c6afe97592dd1cc3ef0358533e3c6e52d4617a24b28060705793b018a14cb5fc              831 main/binary-amd64/Packages.gz
+SHA512:
+ b76e11e59253f31c6fca1136b71abc7d4d0b56721a0379b084aaf05f185a405855d4584513c3dd9f3bae6f99f216729a0c2a74b4cac1d4120d595ce9173e6287              196 Release
+ 60930dbf00cee45e503650fdf65adb3d229f19290bd7e7af4f2377f791ebb099cb99b80e9068e5c6804cd4db882f93aabd2f50df5797acfd5438fae50e06402e             2592 main/binary-amd64/Packages
+ 057d007b72d015d13339c695cce9f27f1e8b1bbab7fc1bab26eb1c4cc5d83845cc42dba1d350b400900249f08ff4e9f2059771f147ecd396c55d105ac571cd48              831 main/binary-amd64/Packages.gz
