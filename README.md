@@ -26,7 +26,7 @@ version from here. Nothing you say leaves your computer, and nothing about you i
 MojoFlow is free to use and not open source: see [LICENSE](LICENSE). Mojo Up's services are under
 the [terms of service](https://mojoup.ai/terms).
 
-Documentation: <https://docs.mojoup.com.au/mojoflow>. Release notes: <https://docs.mojoup.com.au/release-notes/mojoflow>.
+Documentation: <https://docs.mojoup.ai/mojoflow>. Release notes: <https://docs.mojoup.ai/release-notes/mojoflow>.
 
 ## Issues
 
