@@ -1,0 +1,60 @@
+Package: mojoflow
+Version: 0.12.2
+Architecture: amd64
+Maintainer: Mojo Up <hello@mojoup.com.au>
+Installed-Size: 242796
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0t64 | libgtk-3-0, libayatana-appindicator3-1, pipewire-bin
+Recommends: mesa-vulkan-drivers
+Filename: pool/main/m/mojoflow/mojoflow_0.12.2_amd64.deb
+Size: 45505616
+MD5sum: a35b63bb7e2b507965b9d661825a9c34
+SHA1: 5f70de05d9c44846b3875fcdb8f8ccb36cad26d2
+SHA256: eb9553089720ddf91624923f85f050755b7d2e9ab96111c1e4f77376f744dadc
+Section: utils
+Priority: optional
+Homepage: https://github.com/Mojo-Up/mojoflow-releases
+Description: Push-to-talk dictation that runs entirely on your computer
+ Hold a key, speak, release: MojoFlow turns your voice into text on your own
+ graphics chip, tidies it up with a small on-device language model, and types
+ it where your cursor is. Nothing you say leaves your computer.
+
+Package: mojoflow
+Version: 0.12.4
+Architecture: amd64
+Maintainer: Mojo Up <hello@mojoup.com.au>
+Installed-Size: 242828
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0t64 | libgtk-3-0, libayatana-appindicator3-1, pipewire-bin
+Recommends: mesa-vulkan-drivers
+Filename: pool/main/m/mojoflow/mojoflow_0.12.4_amd64.deb
+Size: 45481824
+MD5sum: 959515bcf8578d7e25c427a5503817fa
+SHA1: 7d1fd361e07e76730123d865d5d87b09d0a05ff5
+SHA256: 51001d6af6a066ce00732a60bfe9fbd92e565feb7eb89e08c379c8157c640619
+Section: utils
+Priority: optional
+Homepage: https://github.com/Mojo-Up/mojoflow-releases
+Description: Push-to-talk dictation that runs entirely on your computer
+ Hold a key, speak, release: MojoFlow turns your voice into text on your own
+ graphics chip, tidies it up with a small on-device language model, and types
+ it where your cursor is. Nothing you say leaves your computer.
+
+Package: mojoflow
+Version: 0.12.5
+Architecture: amd64
+Maintainer: Mojo Up <hello@mojoup.com.au>
+Installed-Size: 242832
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0t64 | libgtk-3-0, libayatana-appindicator3-1, pipewire-bin
+Recommends: mesa-vulkan-drivers
+Filename: pool/main/m/mojoflow/mojoflow_0.12.5_amd64.deb
+Size: 45485812
+MD5sum: 80e98c96e00efeae0f2fb3e4d421d2b8
+SHA1: 6147a705656533ca0b262c5e38cc3916363a5651
+SHA256: a9b67b84b83349c4e70c440265959b441477fc21e511f5d70b80ba658c2f24c7
+Section: utils
+Priority: optional
+Homepage: https://github.com/Mojo-Up/mojoflow-releases
+Description: Push-to-talk dictation that runs entirely on your computer
+ Hold a key, speak, release: MojoFlow turns your voice into text on your own
+ graphics chip, tidies it up with a small on-device language model, and types
+ it where your cursor is. Nothing you say leaves your computer.
+
